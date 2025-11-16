@@ -18,5 +18,5 @@ noBtn.addEventListener("mouseover", () => {
 
 yesBtn.addEventListener("click", () => {
   // Navigate to the Valentine's Day page
-  window.location.href = "file:///C:/Users/bilim/Downloads/çıkma%20teklifi-20251116T173038Z-1-001/çıkma%20teklifi/index.html";
+  window.location.href = "index.html";
 });
